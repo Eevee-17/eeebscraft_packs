@@ -1,0 +1,41 @@
+{
+  "parent": "minecraft:block/carved_pumpkin",
+  "overrides":
+  [
+    {
+      "predicate":
+      {
+        "custom_model_data":1
+      },
+        "model": "custom/ev_flower_hat"
+    },
+    {
+      "predicate":
+      {
+        "custom_model_data":2
+      },
+        "model": "custom/ephyllion_mask"
+    },
+    {
+      "predicate":
+      {
+        "custom_model_data":3
+      },
+        "model": "custom/race_helmet"
+    },
+    {
+      "predicate":
+      {
+        "custom_model_data":4
+      },
+        "model": "custom/axoboi"
+    },
+    {
+      "predicate":
+      {
+        "custom_model_data":5
+      },
+        "model": "custom/broken_halo"
+    }
+  ]
+}
